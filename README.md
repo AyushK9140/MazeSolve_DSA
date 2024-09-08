@@ -1,0 +1,1 @@
+Maze Solver is a program designed to find the shortest path through a maze. This project uses algorithms like Depth-First Search (DFS), Breadth-First Search (BFS), or A* to efficiently navigate and solve mazes. The maze is represented as a grid, with designated start and end points, and the solution provides a step-by-step path from start to finish.
